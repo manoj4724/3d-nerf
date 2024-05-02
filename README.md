@@ -23,7 +23,10 @@ If you have Windows, download one of the following releases corresponding to you
 - [**RTX 2000 series, Titan RTX, Quadro RTX 4000&ndash;8000**, and other Turing cards](https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-RTX-2000.zip)
 - [**GTX 1000 series, Titan Xp, Quadro P1000&ndash;P6000**, and other Pascal cards](https://github.com/NVlabs/instant-ngp/releases/download/continuous/Instant-NGP-for-GTX-1000.zip)
 
+
+
 ##HOW TO RUN IT
+
 instant nerf setup and execution
 
 -download the necessory environment from the links
@@ -31,8 +34,10 @@ instant nerf setup and execution
 vscode
 https://visualstudio.microsoft.com/vs/community/
 
+
 cuda (to check type nvcc --version on cmd)
 https://developer.nvidia.com/cuda-12-3-1-download-archive?target_os=Windows&target_arch=x86_64&target_version=11&target_type=exe_local
+
 
 download nvida optics
 https://developer.nvidia.com/designworks/optix/download
@@ -49,6 +54,7 @@ python scripts/colmap2nerf.py --colmap_matcher exhaustive --run_colmap --aabb_sc
 
 
 convert the video to image
+
 python C:\Users\Manoj D\Desktop\data>python C:\ngp\instant-ngp\scripts\colmap2nerf.py --video_in test.MP4 --video_fps 2 --run_colmap --aabb_scale 16
 
 
