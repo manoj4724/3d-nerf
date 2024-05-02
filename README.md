@@ -1,3 +1,19 @@
+## Update
+-> testing out with different parameters for perfect model
+
+-> try exporting the model, (only canb be imported to blender). 
+
+-> Recording video of a complete room and rendering and moving inside the space.
+
+
+##NEW MODEL
+
+-> trying to explore a new model called nerfstudio
+
+-> easy to compare between instant ngp results and nerf studio
+
+Instant ngp sample video is given below.
+
 
 ## Installation
 
@@ -46,9 +62,4 @@ https://github.com/manoj4724/3d-nerf/assets/65806100/e30abdd4-2ccf-4bb2-ad60-653
 https://github.com/manoj4724/3d-nerf/assets/65806100/efd252a4-4756-4794-82a8-7dd98913c89f
 
 
-## Update
--> testing out with different parameters for perfect model
 
--> try exporting the model, (only canb be imported to blender). 
-
--> Recording video of a complete room and rendering and moving inside the space.
