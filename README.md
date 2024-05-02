@@ -30,3 +30,9 @@ python scripts/colmap2nerf.py --colmap_matcher exhaustive --run_colmap --aabb_sc
 
 convert the video to image
 python C:\Users\Manoj D\Desktop\data>python C:\ngp\instant-ngp\scripts\colmap2nerf.py --video_in test.MP4 --video_fps 2 --run_colmap --aabb_scale 16
+
+
+## Update
+-> testing out with different parameters for perfect model
+-> try exporting the model, (only canb be imported to blender). 
+-> Recording video of a complete room and rendering and moving inside the space.
