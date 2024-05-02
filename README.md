@@ -28,8 +28,22 @@ python scripts/colmap2nerf.py --colmap_matcher exhaustive --run_colmap --aabb_sc
 
 
 
+
+
+
+
 convert the video to image
 python C:\Users\Manoj D\Desktop\data>python C:\ngp\instant-ngp\scripts\colmap2nerf.py --video_in test.MP4 --video_fps 2 --run_colmap --aabb_scale 16
+
+
+
+
+
+https://github.com/manoj4724/3d-nerf/assets/65806100/e30abdd4-2ccf-4bb2-ad60-6531ce487d23
+
+
+
+https://github.com/manoj4724/3d-nerf/assets/65806100/efd252a4-4756-4794-82a8-7dd98913c89f
 
 
 ## Update
